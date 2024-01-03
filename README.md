@@ -1,2 +1,2 @@
-# CS3330
-Assignments done for Object Oriented Programming
+# CS 3330
+Assignments done for Object Oriented Programming.
